@@ -1,0 +1,89 @@
+C:\Raja\Tutorial\MVC\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll.config
+C:\Raja\Tutorial\MVC\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll
+C:\Raja\Tutorial\MVC\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.pdb
+C:\Raja\Tutorial\MVC\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.dll
+C:\Raja\Tutorial\MVC\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.pdb
+C:\Raja\Tutorial\MVC\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Sanjina Shakya\Desktop\MVC Project\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll.config
+C:\Users\Sanjina Shakya\Desktop\MVC Project\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll
+C:\Users\Sanjina Shakya\Desktop\MVC Project\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.pdb
+C:\Users\Sanjina Shakya\Desktop\MVC Project\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.dll
+C:\Users\Sanjina Shakya\Desktop\MVC Project\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.pdb
+C:\Users\ssuresh\Desktop\timesheet1\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll.config
+C:\Users\ssuresh\Desktop\timesheet1\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll
+C:\Users\ssuresh\Desktop\timesheet1\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.pdb
+C:\Users\ssuresh\Desktop\timesheet1\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.dll
+C:\Users\ssuresh\Desktop\timesheet1\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.pdb
+C:\Users\ssuresh\Desktop\timesheet1\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll.config
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.pdb
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.dll
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.pdb
+C:\Users\ssuresh\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll.config
+C:\Users\ssuresh\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll
+C:\Users\ssuresh\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.pdb
+C:\Users\ssuresh\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.csprojResolveAssemblyReference.cache
+C:\Users\ssuresh\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.dll
+C:\Users\ssuresh\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.pdb
+C:\Users\ssuresh\Desktop\WorkingAuthentication1\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll.config
+C:\Users\ssuresh\Desktop\WorkingAuthentication1\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll
+C:\Users\ssuresh\Desktop\WorkingAuthentication1\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.pdb
+C:\Users\ssuresh\Desktop\WorkingAuthentication1\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.csprojResolveAssemblyReference.cache
+C:\Users\ssuresh\Desktop\WorkingAuthentication1\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.dll
+C:\Users\ssuresh\Desktop\WorkingAuthentication1\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.pdb
+E:\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll.config
+E:\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll
+E:\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.pdb
+E:\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.csprojResolveAssemblyReference.cache
+E:\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.dll
+E:\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.pdb
+C:\Users\ssuresh\Desktop\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll.config
+C:\Users\ssuresh\Desktop\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll
+C:\Users\ssuresh\Desktop\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.pdb
+C:\Users\ssuresh\Desktop\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.csprojResolveAssemblyReference.cache
+C:\Users\ssuresh\Desktop\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.dll
+C:\Users\ssuresh\Desktop\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.pdb
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll.config
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.pdb
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.dll
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.pdb
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll.config
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.pdb
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.dll
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.pdb
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll.config
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.pdb
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.dll
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.pdb
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll.config
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.pdb
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.dll
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.pdb
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll.config
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.pdb
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.dll
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.pdb
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll.config
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.pdb
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.dll
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.pdb
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll.config
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.dll
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.DAL\bin\MVCTutorial.DAL.pdb
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.dll
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.DAL\obj\Debug\MVCTutorial.DAL.pdb

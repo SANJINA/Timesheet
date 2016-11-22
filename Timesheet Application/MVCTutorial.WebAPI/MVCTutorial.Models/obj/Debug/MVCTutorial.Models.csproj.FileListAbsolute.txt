@@ -1,0 +1,59 @@
+C:\Raja\Tutorial\MVC\MVCTutorial.WebAPI\MVCTutorial.Models\bin\Debug\MVCTutorial.Models.dll
+C:\Raja\Tutorial\MVC\MVCTutorial.WebAPI\MVCTutorial.Models\bin\Debug\MVCTutorial.Models.pdb
+C:\Raja\Tutorial\MVC\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.csprojResolveAssemblyReference.cache
+C:\Raja\Tutorial\MVC\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.dll
+C:\Raja\Tutorial\MVC\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\MVC Project\MVCTutorial.WebAPI\MVCTutorial.Models\bin\Debug\MVCTutorial.Models.dll
+C:\Users\Sanjina Shakya\Desktop\MVC Project\MVCTutorial.WebAPI\MVCTutorial.Models\bin\Debug\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\MVC Project\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.csprojResolveAssemblyReference.cache
+C:\Users\Sanjina Shakya\Desktop\MVC Project\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.dll
+C:\Users\Sanjina Shakya\Desktop\MVC Project\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.pdb
+C:\Users\ssuresh\Desktop\WorkingAuthentication1\MVCTutorial.WebAPI\MVCTutorial.Models\bin\Debug\MVCTutorial.Models.dll
+C:\Users\ssuresh\Desktop\WorkingAuthentication1\MVCTutorial.WebAPI\MVCTutorial.Models\bin\Debug\MVCTutorial.Models.pdb
+C:\Users\ssuresh\Desktop\WorkingAuthentication1\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.csprojResolveAssemblyReference.cache
+C:\Users\ssuresh\Desktop\WorkingAuthentication1\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.dll
+C:\Users\ssuresh\Desktop\WorkingAuthentication1\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.pdb
+C:\Users\ssuresh\Desktop\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.Models\bin\Debug\MVCTutorial.Models.dll
+C:\Users\ssuresh\Desktop\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.Models\bin\Debug\MVCTutorial.Models.pdb
+C:\Users\ssuresh\Desktop\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.csprojResolveAssemblyReference.cache
+C:\Users\ssuresh\Desktop\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.dll
+C:\Users\ssuresh\Desktop\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.Models\bin\Debug\MVCTutorial.Models.dll
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.Models\bin\Debug\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.csprojResolveAssemblyReference.cache
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.dll
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.Models\bin\Debug\MVCTutorial.Models.dll
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.Models\bin\Debug\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.csprojResolveAssemblyReference.cache
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.dll
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.Models\bin\Debug\MVCTutorial.Models.dll
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.Models\bin\Debug\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.csprojResolveAssemblyReference.cache
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.dll
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.Models\bin\Debug\MVCTutorial.Models.dll
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.Models\bin\Debug\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.dll
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.Models\bin\Debug\MVCTutorial.Models.dll
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.Models\bin\Debug\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.csprojResolveAssemblyReference.cache
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.dll
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.Models\bin\Debug\MVCTutorial.Models.dll
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.Models\bin\Debug\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.csprojResolveAssemblyReference.cache
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.dll
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.Models\bin\Debug\MVCTutorial.Models.dll
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.Models\bin\Debug\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.csprojResolveAssemblyReference.cache
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.dll
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.Models\bin\Debug\MVCTutorial.Models.dll
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.Models\bin\Debug\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.csprojResolveAssemblyReference.cache
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.dll
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.Models\obj\Debug\MVCTutorial.Models.pdb

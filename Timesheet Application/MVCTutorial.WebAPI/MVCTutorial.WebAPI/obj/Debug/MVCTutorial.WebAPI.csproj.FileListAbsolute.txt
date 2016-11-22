@@ -1,0 +1,450 @@
+C:\Raja\Tutorial\MVC\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll.config
+C:\Raja\Tutorial\MVC\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll
+C:\Raja\Tutorial\MVC\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.pdb
+C:\Raja\Tutorial\MVC\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.dll
+C:\Raja\Tutorial\MVC\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.dll
+C:\Raja\Tutorial\MVC\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Raja\Tutorial\MVC\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.dll
+C:\Raja\Tutorial\MVC\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Raja\Tutorial\MVC\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.pdb
+C:\Raja\Tutorial\MVC\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.xml
+C:\Raja\Tutorial\MVC\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Raja\Tutorial\MVC\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.xml
+C:\Raja\Tutorial\MVC\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Raja\Tutorial\MVC\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.csprojResolveAssemblyReference.cache
+C:\Raja\Tutorial\MVC\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.dll
+C:\Raja\Tutorial\MVC\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.pdb
+C:\Raja\Tutorial\MVC\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.dll
+C:\Raja\Tutorial\MVC\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\MVC Project\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll.config
+C:\Users\Sanjina Shakya\Desktop\MVC Project\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll
+C:\Users\Sanjina Shakya\Desktop\MVC Project\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.pdb
+C:\Users\Sanjina Shakya\Desktop\MVC Project\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.dll
+C:\Users\Sanjina Shakya\Desktop\MVC Project\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.dll
+C:\Users\Sanjina Shakya\Desktop\MVC Project\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Sanjina Shakya\Desktop\MVC Project\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Sanjina Shakya\Desktop\MVC Project\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.dll
+C:\Users\Sanjina Shakya\Desktop\MVC Project\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Sanjina Shakya\Desktop\MVC Project\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.pdb
+C:\Users\Sanjina Shakya\Desktop\MVC Project\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\MVC Project\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Sanjina Shakya\Desktop\MVC Project\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Sanjina Shakya\Desktop\MVC Project\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.xml
+C:\Users\Sanjina Shakya\Desktop\MVC Project\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Sanjina Shakya\Desktop\MVC Project\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Sanjina Shakya\Desktop\MVC Project\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.dll
+C:\Users\Sanjina Shakya\Desktop\MVC Project\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.pdb
+C:\Users\ssuresh\Desktop\timesheet1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll.config
+C:\Users\ssuresh\Desktop\timesheet1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll
+C:\Users\ssuresh\Desktop\timesheet1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.pdb
+C:\Users\ssuresh\Desktop\timesheet1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.dll
+C:\Users\ssuresh\Desktop\timesheet1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.dll
+C:\Users\ssuresh\Desktop\timesheet1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\ssuresh\Desktop\timesheet1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\ssuresh\Desktop\timesheet1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.dll
+C:\Users\ssuresh\Desktop\timesheet1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\ssuresh\Desktop\timesheet1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.pdb
+C:\Users\ssuresh\Desktop\timesheet1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.pdb
+C:\Users\ssuresh\Desktop\timesheet1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\ssuresh\Desktop\timesheet1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\ssuresh\Desktop\timesheet1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.xml
+C:\Users\ssuresh\Desktop\timesheet1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\ssuresh\Desktop\timesheet1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\ssuresh\Desktop\timesheet1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.dll
+C:\Users\ssuresh\Desktop\timesheet1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.pdb
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingOnDeleteLink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll.config
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingOnDeleteLink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingOnDeleteLink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.pdb
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingOnDeleteLink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.dll
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingOnDeleteLink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.dll
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingOnDeleteLink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingOnDeleteLink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingOnDeleteLink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.dll
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingOnDeleteLink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingOnDeleteLink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.pdb
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingOnDeleteLink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingOnDeleteLink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingOnDeleteLink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingOnDeleteLink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.xml
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingOnDeleteLink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingOnDeleteLink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingOnDeleteLink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.dll
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingOnDeleteLink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.pdb
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll.config
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.pdb
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.dll
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.dll
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.dll
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.pdb
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.xml
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.dll
+C:\Users\Sanjina Shakya\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.pdb
+C:\Users\ssuresh\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll.config
+C:\Users\ssuresh\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll
+C:\Users\ssuresh\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.pdb
+C:\Users\ssuresh\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.dll
+C:\Users\ssuresh\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.dll
+C:\Users\ssuresh\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\ssuresh\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\ssuresh\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.dll
+C:\Users\ssuresh\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\ssuresh\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.pdb
+C:\Users\ssuresh\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.pdb
+C:\Users\ssuresh\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\ssuresh\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\ssuresh\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.xml
+C:\Users\ssuresh\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\ssuresh\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\ssuresh\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.dll
+C:\Users\ssuresh\Desktop\timesheet_workingoneditlink\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.pdb
+C:\Users\ssuresh\Desktop\WorkingAuthentication1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\ssuresh\Desktop\WorkingAuthentication1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.dll
+C:\Users\ssuresh\Desktop\WorkingAuthentication1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.pdb
+C:\Users\ssuresh\Desktop\WorkingAuthentication1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll.config
+C:\Users\ssuresh\Desktop\WorkingAuthentication1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll
+C:\Users\ssuresh\Desktop\WorkingAuthentication1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.pdb
+C:\Users\ssuresh\Desktop\WorkingAuthentication1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.dll
+C:\Users\ssuresh\Desktop\WorkingAuthentication1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.dll
+C:\Users\ssuresh\Desktop\WorkingAuthentication1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\ssuresh\Desktop\WorkingAuthentication1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\ssuresh\Desktop\WorkingAuthentication1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.dll
+C:\Users\ssuresh\Desktop\WorkingAuthentication1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\ssuresh\Desktop\WorkingAuthentication1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.pdb
+C:\Users\ssuresh\Desktop\WorkingAuthentication1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.pdb
+C:\Users\ssuresh\Desktop\WorkingAuthentication1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\ssuresh\Desktop\WorkingAuthentication1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\ssuresh\Desktop\WorkingAuthentication1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.xml
+C:\Users\ssuresh\Desktop\WorkingAuthentication1\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.xml
+E:\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll.config
+E:\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll
+E:\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.pdb
+E:\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.dll
+E:\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.dll
+E:\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.dll
+E:\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.dll
+E:\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.dll
+E:\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.dll
+E:\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.pdb
+E:\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.pdb
+E:\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.xml
+E:\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.xml
+E:\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.xml
+E:\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.xml
+E:\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.csprojResolveAssemblyReference.cache
+E:\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.dll
+E:\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.pdb
+C:\Users\ssuresh\Desktop\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll.config
+C:\Users\ssuresh\Desktop\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll
+C:\Users\ssuresh\Desktop\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.pdb
+C:\Users\ssuresh\Desktop\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.dll
+C:\Users\ssuresh\Desktop\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.dll
+C:\Users\ssuresh\Desktop\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\ssuresh\Desktop\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\ssuresh\Desktop\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.dll
+C:\Users\ssuresh\Desktop\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\ssuresh\Desktop\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.pdb
+C:\Users\ssuresh\Desktop\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.pdb
+C:\Users\ssuresh\Desktop\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\ssuresh\Desktop\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\ssuresh\Desktop\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.xml
+C:\Users\ssuresh\Desktop\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\ssuresh\Desktop\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\ssuresh\Desktop\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.dll
+C:\Users\ssuresh\Desktop\AworkingAuthorization\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.pdb
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll.config
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.pdb
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.dll
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.dll
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.dll
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Razor.dll
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\WebGrease.dll
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.pdb
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Razor.xml
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.xml
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.dll
+C:\Users\Sanjina Shakya\Desktop\AworkingAuthorizationGood\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.pdb
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll.config
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.pdb
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.dll
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.dll
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.dll
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Razor.dll
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\WebGrease.dll
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.pdb
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Razor.xml
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.xml
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.dll
+C:\Users\Sanjina Shakya\Desktop\LoginTempPasswordinProgress\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.pdb
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll.config
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.pdb
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.dll
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.dll
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.dll
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Razor.dll
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\WebGrease.dll
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.pdb
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Razor.xml
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.xml
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.dll
+C:\Users\Sanjina Shakya\Desktop\workingRegistrationDropdown\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.pdb
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll.config
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.pdb
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.dll
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.dll
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.dll
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Razor.dll
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\WebGrease.dll
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.pdb
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Razor.xml
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.xml
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.dll
+C:\Users\Sanjina Shakya\Desktop\DoneTillregisterbutton - Copy\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.pdb
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll.config
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.pdb
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.dll
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.dll
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.dll
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Razor.dll
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\WebGrease.dll
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.pdb
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Razor.xml
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.xml
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.dll
+C:\Users\Sanjina Shakya\Desktop\Thursday@dayS\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.pdb
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll.config
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.pdb
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.dll
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.dll
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.dll
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Razor.dll
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\WebGrease.dll
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.pdb
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Razor.xml
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.xml
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.dll
+C:\Users\Sanjina Shakya\Desktop\MondayModify\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.pdb
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.dll
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.pdb
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll.config
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.pdb
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.dll
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.dll
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.dll
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Razor.dll
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\WebGrease.dll
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.pdb
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Razor.xml
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.xml
+C:\Users\Sanjina Shakya\Desktop\Friday729\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll.config
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.dll
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.WebAPI.pdb
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.dll
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.dll
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.dll
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Razor.dll
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\WebGrease.dll
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.DAL.pdb
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\MVCTutorial.Models.pdb
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Razor.xml
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.xml
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.dll
+C:\Users\Sanjina Shakya\Desktop\ClearCacheNdesignWorking\MVCTutorial.WebAPI\MVCTutorial.WebAPI\obj\Debug\MVCTutorial.WebAPI.pdb
